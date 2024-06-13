@@ -1,0 +1,1863 @@
+<!doctype html>
+<!--
+	Lamoda by TEMPLATE STOCK
+	templatestock.co @templatestock
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+
+
+<html lang="en-gb" class="no-js">
+  <head>
+    <meta charset="utf-8">
+	<title>SPAVIS</title>
+    <meta name="author" content="">
+    <meta name="keywords" content="">
+    <meta name="description" content="">		
+		
+	<!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      
+
+     <!--styles -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.theme.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.transitions.css" rel="stylesheet">
+    <link href="css/magnific-popup.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/animate.css" />
+    <link rel="stylesheet" href="css/etlinefont.css">
+    <link href="css/style.css" type="text/css"  rel="stylesheet"/>
+
+
+   <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
+        <![endif]-->
+    
+	<body  data-spy="scroll" data-target="#main-menu">
+ 
+
+  <!--Start Page loader -->
+  <div id="pageloader">   
+        <div class="loader">
+          <img src="images/progress.gif" alt='loader' />
+        </div>
+   </div>
+   <!--End Page loader -->
+   
+      
+   <!--Start Navigation-->
+		<header id="header">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="fa fa-bars"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+                            <!--Start Logo -->
+							<div class="logo-nav">
+								<a href="index.html">
+									<!-- <img src="images/logo.png" alt="" /> -->
+									<h1 style = "color: white; margin-Top: 16%;"> SPAVIS </h1>
+								</a>
+							</div>
+                            <!--End Logo -->
+							<div class="clear-toggle"></div>
+							<div id="main-menu" class="collapse scroll navbar-right">
+								<ul class="nav">
+                                
+									<li class="active"> <a href="#home">Home</a> </li>
+									
+									<li> <a href="#about">About</a> </li>
+									
+									<li> <a href="#why-choose">Domain</a> </li>
+                                    
+                                    <li> <a href="#history">MileStone</a> </li>
+									
+									<li> <a href="#services">Document</a></li>
+                                    
+                                    <li> <a href="#works">Presentations</a> </li>
+                                    
+                                    <li> <a href="#team">Team</a> </li>
+                                   								    																		
+									
+                                    
+                                    <li> <a href="#clients">Technology</a></li>
+                                     
+									<li> <a href="#contact">Contact</a> </li>
+										
+								</ul>
+							</div><!-- end main-menu -->
+						</div>
+					</div>
+				</div>
+			</header>
+    <!--End Navigation-->
+
+      
+        <!-- Start Slider  -->
+        <section id="home" class="home">
+             <div class="slider-overlay"></div>
+            <div class="flexslider">
+                <ul class="slides scroll">
+                    <li class="first">
+                        <div class="slider-text-wrapper">  
+                            <div class="container">
+                                <div class="big">SPAVIS </div>          
+                                <div class="small">Are you ready to be as a Volunteer</div>
+                                <a href="#works" class="middle btn btn-white">Be a Volunteer</a>
+                            </div>       
+                        </div>
+                        <img src="images/slider/1.jpg" alt="">
+                    </li>
+                    
+                    <li class="secondary">
+                        <div class="slider-text-wrapper"> 
+                            <div class="container">                       
+                                <div class="big">SPAVIS </div>          
+                                <div class="small">Are you socialist to help visually challenged students</div>
+                                <a href="#works" class=" middle btn btn-white">Be a Volunteer</a>
+                            </div>
+                         </div>
+                        <img src="images/slider/2.jpg" alt="">
+                    </li>
+                    
+                    <li class="third">
+                        <div class="slider-text-wrapper"> 
+                            <div class="container">                              
+                                <div class="big">SPAVIS </div>          
+                                <div class="small">We are here to provide assitive based software application to visually impaired students</div>
+                                <a href="#works" class="middle btn btn-white">Visually Impaired</a>
+                             </div>
+                        </div>
+                        <img src="images/slider/3.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </section>
+          <!-- End Slider  -->
+
+
+  <!--Start Features-->
+  <section  id="about" class="section">
+       <div class="container">
+           <div class="row">
+              
+              <!-- Features Icon-->
+              <div class="col-md-4">
+                  <div class="features-icon-box">
+                  
+                      <div class="features-icon">
+                      <i class="fa fa-leaf"></i>
+                      </div>
+                      
+                      <div class="features-info">
+                         <h4>Who are we?</h4>
+                         <p>We are Mobile Application specially designed for assist Visually Impaired Students.</p>
+                      </div>
+                  </div>
+              </div>
+ 
+               <!-- Features Icon-->
+              <div class="col-md-4">
+                  <div class="features-icon-box">
+                  
+                      <div class="features-icon">
+                      <i class="fa fa-paper-plane"></i>
+                      </div>
+                      
+                      <div class="features-info">
+                         <h4>What we do? </h4>
+                         <p>We provide four features that helps Visually Impaired Students in thier day to day Life .</p>
+                      </div>
+                  </div>
+              </div>
+
+               <!-- Features Icon-->
+              <div class="col-md-4">
+                  <div class="features-icon-box">
+                  
+                      <div class="features-icon">
+                     <i class="fa fa-life-saver"></i>
+                      </div>
+                      
+                      <div class="features-info">
+                         <h4>What are the key features? </h4>
+                         <p>Finding Physical Volunteer, Scanning and Reading Documents, providing audio-books, and voice based feedback.</p>
+                      </div>
+                  </div>
+              </div>
+ 
+               <!-- Features Icon-->
+              <div class="col-md-4">
+                  <div class="features-icon-box">
+                  
+                      <div class="features-icon">
+                      <i class="fa fa-paint-brush"></i>
+                      </div>
+                      
+                      <div class="features-info">
+                         <h4>Why we do it? </h4>
+                         <p>To build a path for Visually Impaired Students to perform certain day to day activities.</p>
+                      </div>
+                  </div>
+              </div>
+
+              <!-- Features Icon-->
+              <div class="col-md-4">
+                  <div class="features-icon-box">
+                  
+                      <div class="features-icon">
+                     <i class="fa fa-line-chart"></i>
+                      </div>
+                      
+                      <div class="features-info">
+                         <h4>How we do it?</h4>
+                         <p>We provide Two Mobile Application; One is for Visually Impaired Student and another for Volunteers.</p>
+                      </div>
+                  </div>
+              </div>
+
+              <!-- Features Icon-->
+              <div class="col-md-4">
+                  <div class="features-icon-box">
+                  
+                      <div class="features-icon">
+                      <i class="fa fa-gift"></i>
+                      </div>
+                      
+                      <div class="features-info">
+                         <h4>Since when? </h4>
+                         <p>Application will be live from 20th of December 2022.</p>
+                      </div>
+                  </div>
+              </div>
+
+              
+           </div> <!-- /.row-->
+       </div> <!-- /.container-->
+  </section> 
+  <!--End Features-->
+
+  <!--Start Section-->
+ <!-- <section class="section"> -->
+      <!-- <div class="container"> -->
+          <!-- <div class="row">  -->
+                <!-- <div class="col-md-12"> -->
+					<!-- <div class="content-tab-1"> -->
+						<!-- <ul class="nav"> -->
+							<!-- <li class="active"> -->
+								<!-- <a aria-expanded="true" href="#tab-content-1" data-toggle="tab"> -->
+								<!-- <i class="fa fa-desktop"></i> -->
+								<!-- <h4>Responsive</h4> -->
+								<!-- </a> -->
+								<!-- <div class="tab-arrow"> -->
+								<!-- </div> -->
+							<!-- </li> -->
+                            
+							  <!-- <li> -->
+								<!-- <a aria-expanded="true" href="#tab-content-2" data-toggle="tab"> -->
+								<!-- <i class="fa fa-cubes"></i> -->
+								<!-- <h4>Flexible</h4> -->
+								<!-- </a> -->
+								<!-- <div class="tab-arrow"> -->
+								<!-- </div> -->
+							<!-- </li> -->
+                            
+							<!-- <li> -->
+								<!-- <a aria-expanded="true" href="#tab-content-3" data-toggle="tab"> -->
+								<!-- <i class="fa fa-institution"></i> -->
+								<!-- <h4>Support</h4> -->
+								<!-- </a> -->
+								<!-- <div class="tab-arrow"> -->
+								<!-- </div> -->
+							<!-- </li> -->
+                            
+							  <!-- <li> -->
+								<!-- <a aria-expanded="true" href="#tab-content-4" data-toggle="tab"> -->
+								<!-- <i class="fa fa-pagelines"></i> -->
+								<!-- <h4>Clean Design</h4> -->
+								<!-- </a> -->
+								<!-- <div class="tab-arrow"> -->
+								<!-- </div> -->
+							<!-- </li> -->
+                            
+							  <!-- <li> -->
+								<!-- <a aria-expanded="true" href="#tab-content-5" data-toggle="tab"> -->
+								<!-- <i class="fa fa-pie-chart"></i> -->
+								<!-- <h4>Easy to Use</h4> -->
+								<!-- </a> -->
+								<!-- <div class="tab-arrow"> -->
+								<!-- </div> -->
+							<!-- </li> -->
+                            
+						<!-- </ul> -->
+                        
+						<!-- <div class="tab-content-main"> -->
+								<!-- <div class="container"> -->
+									<!-- <div class="tab-content"> -->
+										<!-- <div class="tab-pane active in" id="tab-content-1"> -->
+											
+                                           <!-- <!-- Features Icon-->	
+                                            <!-- <div class="col-md-6 margin-bottom-30"> -->
+                                                <!-- <div class="tab1-features"> -->
+                                                    <!-- <div class="icon"> <i class="fa fa-star-o"></i> </div> -->
+                                                    <!-- <div class="info"> -->
+                                                        <!-- <h4>Dedicated Support & Updates</h4> -->
+                                                        <!-- <p>Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet. Et netus et malesuada fames ac turpis egestas tristique senectus. </p> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+                                                
+                                                <!-- <div class="tab1-features"> -->
+                                                    <!-- <div class="icon"> <i class="fa fa-codepen"></i> </div> -->
+                                                    <!-- <div class="info"> -->
+                                                        <!-- <h4>multipurpose theme</h4> -->
+                                                        <!-- <p>Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet. Et netus et malesuada fames ac turpis egestas tristique senectus. </p> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+                                              
+                                                <!-- <div class="tab1-features"> -->
+                                                    <!-- <div class="icon"> <i class="fa fa-heart-o"></i></div> -->
+                                                    <!-- <div class="info"> -->
+                                                        <!-- <h4>Design With Love</h4> -->
+                                                        <!-- <p>Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet. Et netus et malesuada fames ac turpis egestas tristique senectus. </p> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+                                                
+                                            <!-- </div> -->
+                                            <!-- End features Icon -->
+                                            
+                                           
+                                           <!-- Start Carousel -->
+                                          <!-- <div class="col-md-6"> -->
+                                              <!-- <div class="tab-carousel"> -->
+                                                    <!-- <div class="item"><img src="images/works/img4.jpg" alt=""></div> -->
+                                                    <!-- <div class="item"><img src="images/works/img5.jpg" alt=""></div> -->
+                                                    <!-- <div class="item"><img src="images/works/img6.jpg" alt=""></div>						  -->
+                                              <!-- </div> -->
+                                          <!-- </div> -->
+                                          <!-- <!-- End Carousel-->                                             
+                                            
+										<!-- </div> -->
+                                       <!-- End Tab content 1 -->
+                                        
+                                        
+                                       <!-- Start Tab content 2 -->
+										<!-- <div class="tab-pane" id="tab-content-2"> -->
+											 
+                                            <!-- <div class="col-md-4"> -->
+                                                 <!-- <div class="tab2-services-box"> -->
+                                                     <!-- <div class="media"> -->
+                                                         <!-- <img src="images/services1.jpg"  alt="services"/> -->
+                                                     <!-- </div> -->
+                                                     
+                                                     <!-- <div class="services-info"> -->
+                                                         <!-- <h4>Our History</h4> -->
+                                                         <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p> -->
+                                                     <!-- </div> -->
+                                                     
+                                                 <!-- </div> -->
+                                            <!-- </div> -->
+                                            
+                                           <!-- <div class="col-md-4"> -->
+                                                 <!-- <div class="tab2-services-box"> -->
+                                                     <!-- <div class="media"> -->
+                                                         <!-- <img src="images/services2.jpg"  alt="services"/> -->
+                                                     <!-- </div> -->
+                                                     
+                                                     <!-- <div class="services-info"> -->
+                                                         <!-- <h4>What We Do</h4> -->
+                                                         <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p> -->
+                                                     <!-- </div> -->
+                                                     
+                                                 <!-- </div> -->
+                                            <!-- </div> -->
+                                            
+                                            <!-- <div class="col-md-4"> -->
+                                                 <!-- <div class="tab2-services-box"> -->
+                                                     <!-- <div class="media"> -->
+                                                         <!-- <img src="images/services3.jpg"  alt="services"/> -->
+                                                     <!-- </div> -->
+                                                     
+                                                     <!-- <div class="services-info"> -->
+                                                         <!-- <h4>Our Mission</h4> -->
+                                                         <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p> -->
+                                                     <!-- </div> -->
+                                                     
+                                                 <!-- </div> -->
+                                            <!-- </div>  -->
+                                            	
+										<!-- </div> -->
+                                        
+                                        
+										<!-- <div class="tab-pane" id="tab-content-3"> -->
+                                                
+                                       <!-- <div class="features-tab3"> -->
+                                        
+                                            <!-- Start Features Left -->
+                                            <!-- <div class="col-md-4"> -->
+                                                <!-- <div class="features-left m-bot-30"> -->
+                                                        <!-- Features Item #1 -->
+                                                        <!-- <div class="features-item"> -->
+                                                            <!-- <div class="features-icon"> <i class="fa fa-pagelines"></i> </div> -->
+                                                            <!-- <div class="features-info"> -->
+                                                               <!-- <h4>Multipurpose & Responsive</h4> -->
+                                                               <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.</p> -->
+                                                            <!-- </div> -->
+                                                        <!-- </div> -->
+                                                        
+                                                        <!-- Features Item #2 -->
+                                                        <!-- <div class="features-item"> -->
+                                                            <!-- <div class="features-icon"> <i class="fa fa-trophy"></i> </div> -->
+                                                            <!-- <div class="features-info"> -->
+                                                               <!-- <h4>Creative Design</h4> -->
+                                                               <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.</p> -->
+                                                            <!-- </div> -->
+                                                        <!-- </div> -->
+                                    
+                                                        <!-- Features Item #3 -->
+                                                        <!-- <div class="features-item"> -->
+                                                            <!-- <div class="features-icon"> <i class="fa fa-tag"></i> </div> -->
+                                                            <!-- <div class="features-info"> -->
+                                                               <!-- <h4>Awesome Theme</h4> -->
+                                                               <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.</p> -->
+                                                            <!-- </div> -->
+                                                        <!-- </div> -->
+                                                        
+                                                    <!-- </div> -->
+                                                 <!-- </div> -->
+                                           <!-- <!--End Features Left--> 
+                                           
+                                           <!-- Start Features Image -->
+                                           <!-- <div class="col-md-4 hidden-xs m-bot-30"> -->
+                                                <!-- <img src="images/device.png" alt="Features Image" /> -->
+                                           <!-- </div> -->
+                                           <!-- End Features Image -->
+                                           
+                                           <!-- Start Features Right -->
+                                           <!-- <div class="col-md-4"> -->
+                                               <!-- <div class="features-right m-bot-30"> -->
+                                                 <!-- Features Item #1 -->
+                                                <!-- <div class="features-item"> -->
+                                                    <!-- <div class="features-icon"> <i class="fa fa-eyedropper"></i> </div> -->
+                                                    <!-- <div class="features-info"> -->
+                                                       <!-- <h4>Strategy Solutions</h4> -->
+                                                       <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.</p> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+                                
+                                                <!-- Features Item #2 -->
+                                                <!-- <div class="features-item"> -->
+                                                    <!-- <div class="features-icon"> <i class="fa fa-search-plus"></i> </div> -->
+                                                    <!-- <div class="features-info"> -->
+                                                       <!-- <h4>App Development</h4> -->
+                                                       <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.</p> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+                                
+                                                <!-- Features Item #3 -->
+                                                <!-- <div class="features-item"> -->
+                                                    <!-- <div class="features-icon"> <i class="fa fa-send-o"></i> </div> -->
+                                                    <!-- <div class="features-info"> -->
+                                                       <!-- <h4>HTML5 & CSS3</h4> -->
+                                                       <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.</p> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+                                                  
+                                               <!-- </div> -->
+                                           <!-- </div> -->
+                                           <!-- End Features Right -->
+                                        <!-- </div>  -->
+                                                
+									<!-- </div> -->
+                                        
+										<!-- <div class="tab-pane" id="tab-content-4"> -->
+												
+											<!-- <div class="tab-content-4"> -->
+                                                
+                                                <!-- <div class="col-md-3"> -->
+                                                    <!-- <div class="tab4-services-box"> -->
+                                                        <!-- <div class="icon"><i class="fa fa-bolt"></i> </div> -->
+                                                        <!-- <div class="info"> -->
+                                                            <!-- <h4>Simple and Clean Codes</h4> -->
+                                                            <!-- <p>Vivamus a placerat ante. Duis vulputate nibh sit amet augue vehicula, mattis -->
+<!-- viverra purus tristique.</p> -->
+                                                        <!-- </div> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+
+
+
+                                                <!-- <div class="col-md-3"> -->
+                                                    <!-- <div class="tab4-services-box"> -->
+                                                        <!-- <div class="icon"><i class="fa fa-fire"></i> </div> -->
+                                                        <!-- <div class="info"> -->
+                                                            <!-- <h4>Responsive Layout Design</h4> -->
+                                                            <!-- <p>Vivamus a placerat ante. Duis vulputate nibh sit amet augue vehicula, mattis -->
+<!-- viverra purus tristique.</p> -->
+                                                        <!-- </div> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+
+                                                <!-- <div class="col-md-3"> -->
+                                                    <!-- <div class="tab4-services-box"> -->
+                                                        <!-- <div class="icon"><i class="fa fa-chain"></i> </div> -->
+                                                        <!-- <div class="info"> -->
+                                                            <!-- <h4>Unlimited Support</h4> -->
+                                                            <!-- <p>Vivamus a placerat ante. Duis vulputate nibh sit amet augue vehicula, mattis -->
+<!-- viverra purus tristique.</p> -->
+                                                        <!-- </div> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+
+                                                <!-- <div class="col-md-3"> -->
+                                                    <!-- <div class="tab4-services-box"> -->
+                                                        <!-- <div class="icon"><i class="fa fa-shopping-cart"></i> </div> -->
+                                                        <!-- <div class="info"> -->
+                                                            <!-- <h4>multipurpose theme</h4> -->
+                                                            <!-- <p>Vivamus a placerat ante. Duis vulputate nibh sit amet augue vehicula, mattis -->
+<!-- viverra purus tristique.</p> -->
+                                                        <!-- </div> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+                                            
+                                            <!-- </div>	 -->
+                                                
+										<!-- </div> -->
+                                        
+                                        
+										<!-- <div class="tab-pane" id="tab-content-5"> -->
+										    
+                                            <!-- <div class="tab-content-5"> -->
+                                                
+                                                <!-- <div class="col-md-6"> -->
+                                                     <!-- <div class="core-features"> -->
+                                                       
+                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur euismod enim a metus adipiscing aliquam. Vestibulum in vestibulum lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur euismod enim a metus adipiscing aliquam. Vestibulum in vestibulum lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur euismod enim a metus adipiscing.</p> -->
+                                                         
+                                                   <!-- <ul class="list"> -->
+                                                        <!-- <li>Font-Awesome Integration</li> -->
+                                                        <!-- <li>Multiple unique designs</li> -->
+                                                        <!-- <li>Clean coded, responsive and multipurpose</li> -->
+                                                        <!-- <li>Pages valid on w3c.</li> -->
+                                                        <!-- <li>Well documented.</li> -->
+                                                        <!-- <li>Easy to  customization.</li> -->
+                                                    <!-- </ul> -->
+                                                         
+                                               <!-- </div> -->
+                                                <!-- </div> -->
+                                                
+                                                
+                                                <!-- <div class="col-md-6"> -->
+                                                    <!-- <div class="devices-image"> -->
+                                                        <!-- <img src="images/device-desktop.png" alt=""/> -->
+                                                    <!-- </div> -->
+                                                <!-- </div> -->
+                                                
+                                            <!-- </div> -->
+                                            
+										<!-- </div> -->
+                                        
+									<!-- </div> -->
+								<!-- </div> -->
+						  <!-- </div> -->
+                        <!-- <!--/.tab-content-main-->  
+					<!-- </div> -->
+				<!-- </div> -->
+              
+            <!-- </div> <!--/.row--> 
+      <!-- </div> <!--/.container--> 
+  <!-- </section> -->
+  <!-- End Section -->
+  
+  
+
+ 
+     <!--Start Why Choose us-->
+  <section id="why-choose" class="section">
+       <div class="container">
+           <div class="row">
+           
+                 <div class="title-box text-center">
+                    <h2 class="title">Domain</h2>
+                 </div>
+              
+              <!--start tabs-->
+              <div class="col-md-6">
+                  <div class="tabs tabs-main">
+					<ul class="nav nav-tabs">
+					  <li class="active"><a href="#one" data-toggle="tab">Abstract</a></li>
+					  <li><a href="#two" data-toggle="tab">Objectives</a></li>
+					  <li><a href="#three" data-toggle="tab">Technologies</a></li>
+					</ul>
+					<div class="tab-content">
+
+						<!--Start Tab Item #1 -->
+						<div class="tab-pane in active" id="one">
+							<p style="text-align: justify;">
+								Sri Lankan population accounts up to almost one
+								million visually impaired individuals out of which are mostly students and young individuals. As the educational structure for the visually impaired improves with funds, blind schools, and
+								free education, assistance on minute needs for most visually
+								impaired individuals come at a cost. There are many assistive
+								technologies such as audio books, screen magnifiers, braille
+								books and screen readers prevalent around the Island.
+								However, there exist several limitations in these technologies
+								mainly the availability and affordability of them. In Sri Lanka,
+								many individuals, societies, clubs, and many more are willing to
+								volunteer to help those in need, even those that require physical
+								attention. As much as it is anticipated to aid those in need, there is very less attention to ways it can be done. Hence, this research provides a way to develop a user-friendly mobile application with assistive software and volunteerism to aid visually impaired students with their daily minute needs. 
+							</p>
+						</div>
+						<!-- End Tab -->
+
+						<!--Start Tab Item #2 -->
+						<div class="tab-pane" id="two">
+							<p style="text-align: justify;">
+								A service-providing application to aid the visually impaired students with the assistance of volunteers and assistive
+								technology in regard to their occasional tasks.
+							</p>
+						</div>
+						<!-- End Tab -->
+
+						<!--Start Tab Item #3 -->
+						<div class="tab-pane" id="three">
+							<p style="text-align: justify;">
+								We have used Flutter to develop our mobile application and Python as our backend and to manipulate data.
+								We used fastAPI for the API services. And for the database, we used Firebase and an AWS S3 bucket.
+							</p>
+						</div>
+						<!-- End Tab -->
+
+					</div>
+				</div>
+              </div>
+             <!-- End Tabs-->
+            
+            <!--Start Accordion-->
+            <div class="col-md-6">
+               <div class="panel-group accordion-main" id="accordion">
+                       <!--About accordion #1-->
+				       <div class="panel">
+                           <div class="panel-heading collapsed" data-toggle="collapse"
+                            data-parent="#accordion" data-target="#collapseOne">
+                          <h6 class="panel-title accordion-toggle">
+                              Literature Survey
+                          </h6>
+                        </div>
+					<div id="collapseOne" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p style="text-align: justify;">
+								The following literature reviews are based on the main technologies of SPAVIS used in different domains.
+                            </p>
+							
+							<h5 style="color: #727272">
+								A. Physical Volunteer Radar
+							</h5>
+							
+							 <p style="text-align: justify;">
+							 There exist applications like Be My Eyes and Aira which connect the visually impaired with volunteers, but they are confined to virtual volunteering via calls and messaging. 
+							 However, based on our conversation with Sri Lanka Federation of Visually Handicapped, we discovered that some requirements of the visually impaired cannot be met through virtual volunteering. 
+							 Furthermore, there are no features in either application that allow the visually impaired to input their requirements and then find a suitable volunteer based on their respective needs. 
+							 Frequently, a volunteer is connected who has no idea of the requirements of the visually impaired. Therefore, there can be instances where the volunteer won't be able to assist the visually impaired very effectively.
+							 Therefore, to overcome this existing issue an AIbased chatbot called the Conversational AI Bot is used in the Physical Volunteer Radar feature of SPAVIS. 
+							 This will analyze the needs of the visually impaired and assist in finding the suitable volunteer according to their needs.
+							 </p>
+							 
+							 <h5 style="color: #727272">
+								B. Smart Document Reader
+							</h5>
+							
+							 <p style="text-align: justify;">
+							 Reading is the main process of gathering information, but it is the most challenging task for visually impaired individuals because of their disability. 
+							 To overcome this problem, applications like Kurzweil — National Federation of the Blind (K-NFB) Reader and Voice Dream use modern technologies like OCR and Text-To-Speech systems, 
+							 but most of these systems are not available in all languages. 
+							 This is a huge downside as Sinhala language is not only the most spoken language, but it is also the language used in majority of books, newspapers, and other educational documents. 
+							 During a conversation with a visually impaired undergraduate, it was brought into our notice that most of the documents for their academics is not printed in braille language. 
+							 Therefore, dependence on volunteers arises for visually impaired.
+							 </p>
+							 
+							  <h5 style="color: #727272">
+								C. Audiobook Rack
+							</h5>
+							
+							 <p style="text-align: justify;">
+							 When a book is converted into an audio format that can be heard, it is known as an Audiobook. The audiobooks are instruction resources which can be directly used by them without requiring any assistance. 
+							 Librivox is an audiobook platform where any person can volunteer to make audiobooks. This platform is extremely popular and used by many as it is a free domain. Librivox provides audiobooks in a variety of languages. 
+							 The weakness of this platform is that different voices are used and not available in all the languages. 
+							 Therefore, Sri Lankans cannot make full use of these platforms. Hence, as a solution the Audiobook Rack feature in SPAVIS is specifically designed to provide audiobooks in Sinhala Language.
+
+							 </p>
+							 
+							  <h5 style="color: #727272">
+								D. Feedback Channel
+							</h5>
+							
+							 <p style="text-align: justify;">
+							 Feedback Analysis will assist businesses to respond effectively to their consumers. Analyzing the feedback to derive insights is done as a manual process by many organizations. 
+							 This is a huge downside in today's feedback channels as they lack the automation to analyze the consumer feedbacks. 
+							 Sentiment Analysis is the popular Natural Language Processing (NLP) technique used by many organizations to analyze consumer opinions. 
+							 It is one of the most active research areas in NLP and has spread outside of computer science to management sciences due to its importance to businesses.
+							 Various research has been conducted on different use cases of sentiment analysis such as in the educational domain to evaluate teaching performances, 
+							 to analyze mobile application reviews from platforms like Play Store and to analyze the application user feedback regarding software products - which will improve the requirement gathering and elicitation activities in software engineering process.
+							 Research has indicated how sentiment analysis could bring immense value to any area which handles people’s feedback/opinions. Assistive Technology for visually impaired is an area where sentiment analysis could be extremely useful. 
+							 Feedback is extremely vital for developers of Assistive Technology to ensure that visually impaired users can utilize the functionalities of the application effectively. Unlike other applications, assistive technologybased applications are designed with high precision, 
+							 therefore the feedback of the end users of such application is essential to ensure that the application is accessible.
+
+							 </p>
+                                
+                        </div>
+					</div>
+				  </div>
+                  
+                  <!--About accordion #2-->
+				  <div class="panel">
+                       <div class="panel-heading collapsed" data-toggle="collapse"
+                        data-parent="#accordion" data-target="#collapseTwo">
+                      <h6 class="panel-title accordion-toggle">
+                          Research problem
+                      </h6>
+                       </div>
+					<div id="collapseTwo" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p style="text-align: justify;">
+									There are nearly one million visually impaired people in Sri Lanka, the majority of them are students and younger
+									individuals who incredibly require assistance for their minute needs. During our conversation with a visually impaired
+									student, we identified areas of assistance required by them which include help in reading books and documents that are not
+									in Braille format, walking them to places and so on and so forth. In Sri Lanka, availability of assistive technologies are
+									very limited and beyond affordability. The most prevalent technologies available in the country are limited to audiobooks,
+									screen magnifiers, Braille books and screen readers. These are the most commonly used assistive technologies by visually
+									impaired in Sri Lanka but one of the main downsides with these technologies is that they do not provide a total solution
+									to their needs. Further, a number of widely used programs and so called high accuracy tools, including "Be My Eyes" or
+									OrCam Reader, have been criticized for its inherent shortcomings. Too many volunteer requests were accepted, there were 
+									system problems, and privacy concerns with the "Be My Eyes" software for virtual volunteer aid; as for the OrCam Reader 
+									for blind readers, they are quite expensive. As such an alternative is recommended at an affordable price. For instance,
+									an individual might just use an automated scanner on their smartphones to scan the document, eliminating the burden of
+									trying to determine whether the photo was properly exposed and cost-free. The scanned document will also be turned into a
+									listenable audio file.
+									
+								</p>
+								
+								<p style="text-align: justify;">
+								
+									Other problem may include having to read themselves a book that is not in braille but available on the internet. One may argue 
+									the fact that screen readers can be used for such purposes. But there are several limitations to screen reading technologies such 
+									as format, navigational, technical, and financial. Due to these limitations, many students have difficulties in finding resources in
+									the appropriate format, feeling lost while navigating or advertisements being read along by the screen reader,
+									errors in scanning documents and financial difficulties in scanning materials. Therefore, an audio assistance 
+									through volunteers can be used by establishing a portal for volunteers to send audio in response to a visually
+									impaired user’s needed information. As a matter of fact, it is known as some of the visually impaired have negative
+									experiences of being excluded from the sighted group of people and they suffer fear of exclusion, especially students. 
+									Therefore, physical volunteer ship can also be encouraged by connecting a suitable volunteer to a visually impaired. 
+									Many Sri Lankan individuals and societies take pride in volunteering for the needs of the visually impaired, 
+									both physically and virtually. But there are very few ways to connect the two sides.
+								
+								</p>
+								
+								
+							</div>
+					</div>
+				  </div>
+
+                 <!--About accordion #3-->
+				  <div class="panel">
+                      <div class="panel-heading collapsed" data-toggle="collapse"
+                            data-parent="#accordion" data-target="#collapseThree">
+                          <h6 class="panel-title accordion-toggle">
+                              Research Gap
+                          </h6>
+                        </div>
+					<div id="collapseThree" class="panel-collapse collapse">
+                            <div class="panel-body">
+							
+							<h5 style="color: #727272">
+								Physical Volunteer Radar
+							</h5>
+                                <p style="text-align: justify;">
+								 <!--1) To fulfill certain needs of the visually impaired, a physical volunteer is required.
+								<br><br>
+								2) Currently, there is no platform to connect the visually impaired with physical volunteers to fulfill their occasional needs.
+								<br><br>
+								3) Gathering sufficient information from visually impaired is challenging.-->
+
+								<ol style="color: #727272">
+									<li>To fulfill certain needs of the visually impaired, a physical volunteer is required.</li><br>
+									<li>Currently, there is no platform to connect the visually impaired with physical volunteers to fulfill their occasional needs.</li><br>
+									<li>Gathering sufficient information from visually impaired is challenging.</li>
+								</ol> 
+                            </p>
+							
+							<h5 style="color: #727272">
+								Smart Document Reader
+							</h5>
+							
+							<p style="text-align: justify;">
+							<ol style="color: #727272">
+									<li>Currently, there are applications and devices available to read printed text and   
+									convert them into speech based using OCR and TTS technologies.</li><br>
+									<li>Lack of accuracy in recognizing touching and conjoining letters in Sinhala language.</li>
+								</ol> 
+							</p>
+							
+							<h5 style="color: #727272">
+								Audiobook Rack
+							</h5>
+							
+							<p style="text-align: justify;">
+							<ol style="color: #727272">
+									<li> There are existing platforms which provide audiobooks with the help of multiple volunteers.</li><br>
+									<li>These platforms provide audiobooks in multiple audio clips which is not a good user experience.</li>
+								</ol> 
+							</p>
+                            
+							<h5 style="color: #727272">
+								Feedback Channel
+							</h5>
+							
+							<p style="text-align: justify;">
+							<ol style="color: #727272">
+									<li> As an application targeted to provide service to visually impaired users, it is vital for a feedback channel with high usability.</li><br>
+									<li>Manually analyzing the received feedbacks to make decisions is a hectic task.</li>
+								</ol> 
+							</p>							
+                        </div>
+					</div>
+				  </div>
+
+                <!--About accordion #4-->
+				 <div class="panel">
+                     <div class="panel-heading collapsed" data-toggle="collapse"
+                            data-parent="#accordion" data-target="#collapseFour">
+                          <h6 class="panel-title accordion-toggle">
+                              Methodologies
+                          </h6>
+                        </div>
+					<div id="collapseFour" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p style="text-align: justify;">
+								SPAVIS is a mobile application specifically designed to assist visually impaired students with their microtasks. 
+								The initial idea of this research originated following the detailed conversation with two prominent institutions which are dedicated to visually impaired individuals, 
+								namely the Sri Lanka Federation of Visually Handicapped and Ceylon School for Deaf and Blind. 
+								The discussion with these respective institutions indicated the necessity for a software requirement to overcome the current shortcomings faced by visually impaired. 
+								The development process of SPAVIS was primarily focused on addressing the problems faced by them with the assistance of volunteerism and software-based assistive technology.
+                            </p>
+							
+							<h5 style="color: #727272">
+								A. Physical Volunteer Radar
+							</h5>
+							
+							   <p style="text-align: justify;">
+								This feature initially functions as a Conversational AI Bot, through which the requirement for a volunteer is identified. 
+								The Conversational AI Bot was built using the Dialog-Flow library. The Speech-to-Text feature was the main highlight in this application. 
+								The Dialog-Flow’s Speech-to-text is used to recognize the voice input and convert it into the textual format within the Conversation AI Bot and the Flutter text-to-speech library is used to convert the chatbot’s textual reply into audio. 
+								The keywords in the conversation will be identified and extracted through NER (Named Entity Recognition) machine learning model. 
+								Once the keywords are extracted, using the ruled-based approach the optimal physical volunteer for the required need of the visually impaired student will be identified. 
+								Finally, the identified volunteers will be notified requesting assistance. If the volunteer shows interest to assist, then both parties will be connected.
+                               </p>
+							   
+							<h5 style="color: #727272">
+								B. Smart Document Reader
+							</h5>
+							
+							   <p style="text-align: justify;">
+								The availability of documents based on braille language is extremely limited due to the necessity of expensive equipment required to make them. 
+								Therefore, this feature will enable them to learn books that are not in braille language. 
+								The main highlight of Smart Document Reader is to process documents in Sinhala language to cater to Sri Lankans. 
+                               </p>
+							   
+							   <p style="text-align: justify;">
+								Special attention was paid to the challenging task of capturing images which require more effort by the visually impaired students as such, document detection system will enable to facilitate proper outcome. 
+								Flutter Edge Detection library is used to capture the document images by detecting the edges of the document. 
+								A vibration mechanism was integrated within the edge detection algorithm to act as a notifier for the visually impaired user, 
+								indicating that the document edges are identified, and the image is ready to be captured. Once the image is captured it will be pre-processed 
+								and the identified text in the image will be extracted through Image Recognition techniques. As the final output, the extracted text will be converted to an audio output.
+                               </p>	
+							   
+							<h5 style="color: #727272">
+								C. Audiobook Rack
+							</h5>
+							
+							   <p style="text-align: justify;">
+								To enable visually impaired to comprehend the text that are not in braille format, audiobooks were invented. 
+								However, due to the high-cost factor the benefit of which could not be derived by them.
+                               </p>	
+							   
+							   <p style="text-align: justify;">
+								In order to make audiobook beneficial to visually impaired students SPAVIS contains an Audiobook Rack feature without any additional cost. 
+								This platform enables multiple virtual volunteers to produce audiobooks at the request of visually impaired students. 
+								This process will notify virtual volunteers, where multiple volunteers will be able to collaborate and produce audio clips of each chapter.
+                               </p>	
+							   
+							   <p style="text-align: justify;">
+								The uniqueness of Audiobook Rack is that, with the assistance of Machine Learning Algorithms known as Digital Signal Processing, 
+								it will merge all the audio clips from different volunteers and convert them into a unified voice using Generative Adversarial Network. 
+								Presently available volunteer-based audiobooks are in multiple voices.
+                               </p>	
+							   
+							<h5 style="color: #727272">
+								D. Feedback Channel
+							</h5>
+							
+							   <p style="text-align: justify;">
+								This channel is to obtain feedback in order to improve the application for better advantage to the users. It is vital to ensure that the feedbacks are properly processed so that the opinions of the end users are attended. 
+								Within this feature, the Sentiment Analysis technique is used to automate the process of analyzing the feedbacks and visualizing them for better interpretation of different stakeholders. 
+								The processed feedbacks will be used by internal users of SPAVIS to make improvements on different aspects of the SPAVIS application as well as to make decisions on the users of the application.
+                               </p>							   
+                        </div>
+					</div>
+				  </div>
+				</div>
+            </div>
+            <!--End Accordion-->
+              
+           </div> <!--/.row-->
+       </div> <!--/.container-->
+  </section>
+  <!--End Why Choose us-->
+  
+   
+     <!--Start History-->
+    <section id="history" class="section parallax">
+		<div class="overlay"></div>
+            <div class="container">
+                
+                 <div class="title-box text-center white">
+                    <h2 class="title">Milestone</h2>
+                 </div>
+                 
+                     <!-- History Timeline -->
+                    <ul class="timeline list-unstyled">
+                        
+                        <li class="year">2022</li>
+						
+                        
+                        <!--History Item -->
+                        <li class="timeline-item">
+                            <h4>Project Proposal</h4>
+                            <p>The first pitch to the panel focused on methodologies and technologies that would be used in the creation of SPAVIS.</p>
+                            <span> 1 Feb 2022</span>
+                        </li>
+                        <!-- End Item -->
+                        
+                        <!--History Item -->
+                        <li class="timeline-item">
+                            <h4>Progress Presentation 1</h4>
+                            <p>This was where the 50% progress of the SPAVIS application was presented to the panel.</p>
+                            <span> 25 MAY 2022</span>
+                        </li>
+                        <!-- End Item -->
+                        
+                        <!-- History Year -->
+                        <li class="year">2022</li>
+                        
+                        
+                        <!--History Item -->
+                        <li class="timeline-item">
+                            <h4>Progress Presentation 2</h4>
+                            <p>This is where we presented 90% completion of SPAVIS application to the panel.</p>
+                            <span> 10 OCT 2022</span>
+                        </li>
+                        <!-- End Item -->
+                        
+                        <!--History Item -->
+                        <li class="timeline-item">
+                            <h4>Poster</h4>
+                            <p>This was where a comprehensive graphical view of SPAVIS was shown to the audience to give a better view of our research.</p>
+                            <span> 09 OCT 2022</span>
+                        </li>
+                        <!-- End Item -->
+                        
+                         <!--History Item -->
+                        <li class="timeline-item">
+                            <h4>Final Assessment</h4>
+                            <p>The final presentation is the point at which the system is fully functional at 100%. which means that the system must be a full product that can be commercialized.</p>
+                            <span> 14 NOV 2022</span>
+                        </li>
+                        <!-- End Item -->
+						
+						<!--History Item -->
+                        <li class="timeline-item">
+                            <h4>Viva</h4>
+                            <p>Individual assessment of each member of the group to identify the level of understanding of the system and the functions of the system.</p>
+                            <span> 14 NOV 2022</span>
+                        </li>
+                        <!-- End Item -->
+                        
+                         <li class="clear"></li>
+                        
+                        <li class="end-icon fa fa-bookmark"></li>
+                    </ul>
+                   <!-- End History Timeline -->
+                   
+           </div> <!--/.container-->
+	</section>
+   <!--End History-->
+   
+   <!--Start Services-->
+   <section id="services" class="section">
+        <div class="container">
+            <div class="row">
+            
+                 <div class="title-box text-center">
+                    <h2 class="title">Documents</h2>
+                 </div>
+				 
+				 
+				<!--Services Item-->
+               <div class="col-md-4">
+                   <div class="services-box">
+                       <div class="services-icon"> <i class="icon-basket"></i> </div> 
+                       <div class="services-desc">
+                          <h4><a href ="https://docs.google.com/document/d/1nRujsjERKk-exPIVMaXOtZ2Rjm6ELAoE/edit?usp=share_link&ouid=113721382747690840174&rtpof=true&sd=true">Topic Assessment Document</a></h4>
+                          <p>The initial step which was getting feedback and comments from the panel on the selected topic for the Research. </p>
+                       </div>
+                   </div>
+               </div>
+                <!--End services Item--> 
+				
+				<!--Services Item-->
+               <div class="col-md-4">
+                   <div class="services-box">
+                       <div class="services-icon"> <i class="icon-basket"></i> </div> 
+                       <div class="services-desc">
+                          <h4><a href ="https://drive.google.com/drive/folders/1UNLOgLOQAyrPzkIxxVW2psD29z3nP4EW?usp=share_link">Status Document</a></h4>
+                          <p>This document was prepared to show the progress of the research conducted. </p>
+                       </div>
+                   </div>
+               </div>
+                <!--End services Item-->
+				
+				<!--Services Item-->
+               <div class="col-md-4">
+                   <div class="services-box">
+                       <div class="services-icon"> <i class="icon-basket"></i> </div> 
+                       <div class="services-desc">
+                          <h4><a href ="https://drive.google.com/drive/folders/1cYzeCZJCIs55H9euBJG4OnBsv1CtRns-?usp=share_link">Research Logbook</a></h4>
+                          <p>This document was prepared to showcase the interactions between the students and their respective supervisor. </p>
+                       </div>
+                   </div>
+               </div>
+                <!--End services Item-->
+              
+               <!--Services Item-->
+               <div class="col-md-4">
+                   <div class="services-box">
+                       <div class="services-icon"> <i class="icon-basket"></i> </div> 
+                       <div class="services-desc">
+                          <h4><a href ="https://docs.google.com/document/d/1jujquLWrU_pxoUokqhdaaYX_vNdmqAtj/edit?usp=share_link&ouid=113721382747690840174&rtpof=true&sd=true">Charter Document</a></h4>
+                          <p>The project charter provides an understanding of our research, its goals, objectives, and resource requirements.</p>
+                       </div>
+                   </div>
+               </div>
+                <!--End services Item-->
+                
+                <!--Services Item-->
+               <div class="col-md-4">
+                   <div class="services-box">
+                       <div class="services-icon"> <i class="icon-shield"></i> </div> 
+                       <div class="services-desc">
+                          <h4><a href="https://drive.google.com/drive/folders/1cIuwW7FGifFyLDTDsPax5x7jd3do1Y_3?usp=sharing">Proposal Report
+						  </a></h4>
+                          <p>The project proposal simply defines the project's goals, why those goals are important, and how we plan to achieve them. </p>
+                       </div>
+                   </div>
+               </div>
+               <!--End services Item-->
+               
+               <!--Services Item-->
+               <div class="col-md-4">
+                   <div class="services-box">
+                       <div class="services-icon"> <i class="icon-hotairballoon"></i> </div> 
+                       <div class="services-desc">
+                          <h4><a href ="https://drive.google.com/file/d/1po9vuYLYw8Zs1Pnn7-8rAz61zWsqAmy6/view?usp=share_link">Research Paper</a></h4>
+                          <p>This phase of research is completed by submitting the research paper to the ICAC 2022 4th international conference. </p>
+                       </div>
+                   </div>
+               </div>
+                <!--End services Item-->
+				
+				<!--Services Item -->
+               <div class="col-md-4">
+                   <div class="services-box">
+                       <div class="services-icon"> <i class="icon-aperture"></i> </div> 
+                       <div class="services-desc">
+                          <h4><a href="https://drive.google.com/file/d/1Ol86CZfKojsKGLlSECeQ8tc254rkKMOu/view?usp=share_link">Poster</a></h4>
+                          <p>This was where a comprehensive graphical view of SPAVIS was shown to the audience to give a better view of our research. </p>
+                       </div>
+                   </div>
+               </div>
+               <!--End services Item-->
+                
+               <!--Services Item -->
+               <div class="col-md-4">
+                   <div class="services-box">
+                       <div class="services-icon"> <i class="icon-global"></i> </div> 
+                       <div class="services-desc">
+                          <h4><a href="https://docs.google.com/document/d/1ZAdUHL5tjVGR78S9mXxhNA73opPJ9_qp/edit?usp=share_link&ouid=113721382747690840174&rtpof=true&sd=true">Final Report Group</a></h4>
+                          <p>This document discusses on the overall team contribution towards the research project. </p>
+                       </div>
+                   </div>
+               </div>
+               <!--End services Item-->
+               
+               <!--Services Item-->
+               <div class="col-md-4">
+                   <div class="services-box">
+                       <div class="services-icon"> <i class="icon-target"></i> </div> 
+                       <div class="services-desc">
+                          <h4><a href="https://drive.google.com/drive/folders/1TnuUcZwIG-FWROzWE6Ds6mNNokJRfNep?usp=share_link">Final Report Individual</a></h4>
+                          <p>This document consist of the in depth contribution of each member towards the research </p>
+                       </div>
+                   </div>
+               </div>
+              <!--End services Item-->
+              
+              
+            </div> <!--/.row-->
+        </div> <!--/.container-->
+   </section> 
+  <!--End Services-->
+  
+  <!-- Start Facts-->
+  <section id="facts" class="section parallax">
+    <div class="overlay"></div>
+       <div class="container">
+           <div class="row">
+                  
+                <!-- Start Item-->
+                <div class="col-md-3 col-sm-6 facts-box margin-bottom-30">
+                    <span><i class="icon-happy"></i></span>
+                    <h3>101</h3>
+                    <span>Registered Volunteers</span>
+                </div>
+                <!-- End Item-->
+ 
+                 <!-- Start Item-->
+                <div class="col-md-3 col-sm-6 facts-box margin-bottom-30">
+                 <span><i class="icon-presentation"></i></span>
+                    <h3>04</h3>
+                    <span>Key Features</span>
+                </div>
+                <!-- End Item-->
+
+                 <!-- Start Item-->
+                <div class="col-md-3 col-sm-6 facts-box margin-bottom-30">
+                 <span><i class="icon-target"></i></span>
+                    <h3>1232</h3>
+                    <span>Lines of Code</span>
+                </div>
+                <!-- End Item-->
+
+                 <!-- Start Item-->
+                <div class="col-md-3 col-sm-6 facts-box margin-bottom-30">
+                 <span><i class="icon-trophy"></i></span>
+                    <h3>02</h3>
+                    <span>Achievements</span>
+                </div>
+                <!-- End Item-->
+
+             </div> <!-- /.row -->
+       </div> <!-- /.container -->
+  </section>
+  <!--End Facts-->
+   
+
+   <!--Start portfolio-->
+   <section id="works" class="section">
+				<!-- Filtering -->
+                  <div class="title-box text-center">
+                    <h2 class="title">Presentation</h2>
+                 </div>
+
+
+					<div class=" col-md-12 text-center">
+						<!-- Filtering -->
+						<ul class="filtering">
+							<li class="filter" data-filter="all">All</li>
+							<li class="filter" data-filter="fashion">Project Proposal</li>
+							<li class="filter" data-filter="event">Progress presentation 1</li>
+							<li class="filter" data-filter="wedding">Progress presentation 2</li>
+							<li class="filter" data-filter="corporate">Final Presentation</li>
+						</ul>
+					</div>
+                
+				<div class="work-main">
+					<!-- Work Grid -->
+					<ul class="work-grid">
+                      
+						<!-- Work Item -->
+						<li class="work-item thumnail-img mix fashion">
+							<div class="work-image">
+                                <img src="images/works/proposalPresentation.png" alt="thumbnail">
+                                
+                                 <!--Hover link-->
+                                 <div class="hover-link">
+                                    <a href="https://docs.google.com/presentation/d/1cGXQNrORylrnam4DONTF63c-m6aa8iMA/edit#slide=id.p1">
+                                        <i class="fa fa-link"></i>
+                                    </a>
+        
+                                    <a href="images/works/proposalPresentation.png" class="popup-image">
+                                        <i class="fa fa-plus"></i>
+                                    </a>
+                                 </div>
+                                 <!--End link-->
+
+                                 <!--Hover Caption-->
+                                 <div class="work-caption">
+                                     <h4>Proposal Presentation</h4>
+                                     <p>Initial Presentation</p>
+                                 </div>
+                                 <!--End Caption-->
+
+                            </div> <!-- /.work-image-->
+						</li> 
+						<!--End Work Item -->
+                        
+						<!-- Work Item -->
+						<li class="work-item thumnail-img mix event">
+							<div class="work-image">
+                                <img src="images/works/pp1.png" alt="thumbnail">
+                                
+                                 <!--Hover link-->
+                                 <div class="hover-link">
+                                   <a href="https://docs.google.com/presentation/d/1T2E0Bl1bh_e-sEnlOdHfCoaCA1fK6pO6/edit#slide=id.p1">
+                                        <i class="fa fa-link"></i>
+                                    </a>
+        
+                                    <a href="images/works/pp1.png" class="popup-image">
+                                        <i class="fa fa-plus"></i>
+                                    </a>
+                                 </div>
+                                 <!--End link-->
+
+                                 <!--Hover Caption-->
+                                 <div class="work-caption">
+                                     <h4>Progress Presentation 1</h4>
+                                     <p>50% Completion</p>
+                                 </div>
+                                 <!--End Caption-->
+
+                            </div> <!-- /.work-image-->
+						</li> 
+						<!--End Work Item -->
+
+						<!-- Work Item -->
+						<li class="work-item thumnail-img mix wedding">
+							<div class="work-image">
+                                <img src="images/works/pp2.png" alt="thumbnail">
+                                
+                                 <!--Hover link-->
+                                 <div class="hover-link">
+                                    <a href="https://docs.google.com/presentation/d/12WI0iPn3nkSgS0T9Gl3Hjs93jtogpWnt/edit#slide=id.p1">
+                                        <i class="fa fa-link"></i>
+                                    </a>
+        
+                                    <a href="images/works/pp2.png" class="popup-image">
+                                        <i class="fa fa-plus"></i>
+                                    </a>
+                                 </div>
+                                 <!--End link-->
+
+                                 <!--Hover Caption-->
+                                 <div class="work-caption">
+                                     <h4>Progress Presentation 2</h4>
+                                     <p>90% Completion</p>
+                                 </div>
+                                 <!--End Caption-->
+
+                            </div> <!-- /.work-image-->
+						</li> 
+						<!--End Work Item -->
+						
+												<!-- Work Item -->
+						<li class="work-item thumnail-img mix corporate">
+							<div class="work-image">
+                                <img src="images/works/finalPresentation.png" alt="thumbnail">
+                                
+                                 <!--Hover link-->
+                                 <div class="hover-link">
+                                    <a href="https://spacy.io/">
+                                        <i class="fa fa-link"></i>
+                                    </a>
+        
+                                    <a href="images/works/finalPresentation.png" class="popup-image">
+                                        <i class="fa fa-plus"></i>
+                                    </a>
+                                 </div>
+                                 <!--End link-->
+
+                                 <!--Hover Caption-->
+                                 <div class="work-caption">
+                                     <h4>Final Presentation</h4>
+                                     <p>100% Completion</p>
+                                 </div>
+                                 <!--End Caption-->
+
+                            </div> <!-- /.work-image-->
+						</li> 
+						<!--End Work Item -->
+                        
+						
+					</ul>
+                    
+				</div>
+			</section>
+  <!--End portfolio-->
+ 
+ 
+   <!--Start Call To Action-->
+   <section id="cta" class="parallax">
+       <div class="overlay"></div>
+         <div class="container">
+             <div class="row text-center">
+                 <h2>Are you ready to assist Visually Impaired</h2>
+                 <a href="#" class="btn btn-green">Be a Volunteer</a>
+           </div>
+         </div>
+   </section>
+   <!--End Call To Action-->
+   
+   
+    
+  <!--Start Team-->
+  <section id="team" class="section">
+		<div class="container">
+            <div class="row">
+                    
+             <div class="title-box text-center">
+                <h2 class="title">Our Team</h2>
+             </div>
+              
+             </div>
+			
+                <!-- Team -->
+				<div class="team-items team-carousel">
+                      <!-- Team Member #1 -->
+                      <div class="item">
+                          <img src="images/team/jagathSir.png" alt=""  />
+                          <h4>Jagath Wickramarathne</h4>
+                          <h5>Supervisor</h5>
+                          <p></p>
+                          
+                          <div class="socials">
+                              <ul>
+                               <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                               <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                               <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                               <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                              </ul>
+                          </div>
+                      </div>
+                      <!-- End Member -->
+                      
+                      <!-- Team Member #2 -->
+                      <div class="item">
+                          <img src="images/team/dharshanaSir.jpg" alt=""  />
+                          <h4>Dharshana Kasthurirathna</h4>
+                          <h5>Co-Supervisor</h5>
+                          <p></p>
+                          
+                          <div class="socials">
+                              <ul>
+                               <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                               <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                               <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                               <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                              </ul>
+                          </div>
+                      </div>
+                      <!-- End Member -->
+                      
+                      <!-- Team Member #3 -->
+                      <div class="item">
+                          <img src="images/team/dilan.jpeg" alt=""  />
+                          <h4>Dilan Devinda Perera</h4>
+                          <h5>Team Leader</h5>
+                          <p></p>
+                          
+                          <div class="socials">
+                              <ul>
+                               <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                               <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                               <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                               <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                              </ul>
+                          </div>
+                      </div>
+                      <!-- End Member -->
+                      
+                       <!-- Team Member #4 -->
+                      <div class="item">
+                          <img src="images/team/hussain.jpeg" alt=""  />
+                          <h4>Mohamed Hussain Nazimudeen</h4>
+                          <h5>Team Member</h5>
+                          <p></p>
+                          
+                          <div class="socials">
+                              <ul>
+                               <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                               <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                               <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                               <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                              </ul>
+                          </div>
+                      </div>
+                      <!-- End Member -->
+                      
+                       <!-- Team Member #5 -->
+                      <div class="item">
+                          <img src="images/team/malindu.jpeg" alt=""  />
+                          <h4>Malindu Upendra</h4>
+                          <h5>Team Member</h5>
+                          <p></p>
+                          
+                          <div class="socials">
+                              <ul>
+                               <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                               <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                               <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                               <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                              </ul>
+                          </div>
+                      </div>
+                      <!-- End Member -->
+                      
+                       <!-- Team Member #6 -->
+                      <div class="item">
+                          <img src="images/team/mahir.jpeg" alt=""  />
+                          <h4>Mohamed Mahir Azeem</h4>
+                          <h5>Team Member</h5>
+                          <p></p>
+                          
+                          <div class="socials">
+                              <ul>
+                               <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                               <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                               <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                               <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                              </ul>
+                          </div>
+                      </div>
+                      <!-- End Member -->
+				</div>
+                <!-- End Team -->
+			</div>
+            <!-- End Content -->
+	</section>
+  <!--End Team-->
+
+
+    <!-- Start Skills -->
+  <!-- <section  id="skills" class="section parallax"> -->
+       <!-- <div class="overlay"></div> -->
+       <!-- <div class="container"> -->
+           <!-- <div class="row"> -->
+                    
+             <!-- <div class="title-box text-center white"> -->
+                <!-- <h2 class="title">Technical Skills</h2> -->
+             <!-- </div> -->
+              
+                 <!-- Skill #1 -->
+                <!-- <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main"> -->
+                    <!-- <span class="pie-chart " data-percent="87"> -->
+                        <!-- <span class="percent"></span> -->
+                    <!-- </span> -->
+                    <!-- <h4>Photoshop</h4> -->
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
+                <!-- </div> -->
+                
+                <!-- Skill #2 -->
+                <!-- <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main"> -->
+                    <!-- <span class="pie-chart" data-percent="75"> -->
+                        <!-- <span class="percent"></span> -->
+                    <!-- </span> -->
+                    <!-- <h4>Wordpress</h4> -->
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
+                <!-- </div> -->
+                
+                <!-- Skill #3 -->
+                <!-- <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main"> -->
+                    <!-- <span class="pie-chart " data-percent="60"> -->
+                        <!-- <span class="percent"></span> -->
+                    <!-- </span> -->
+                    <!-- <h4>Graphic</h4> -->
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
+                <!-- </div> -->
+                
+                <!-- Skill #4 -->
+                <!-- <div class="col-sm-3 col-md-3 col-lg-3 pie-chart-main"> -->
+                    <!-- <span class="pie-chart" data-percent="95"> -->
+                        <!-- <span class="percent"></span> -->
+                    <!-- </span> -->
+                    <!-- <h4>Development</h4> -->
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
+                <!-- </div> -->
+
+            
+           <!-- </div> <!-- /.row--> 
+       <!-- </div> <!-- /.container--> 
+  <!-- </section>  -->
+  <!-- End Skills -->
+
+ 
+  
+
+ 
+    <!--Start video-->
+  <section id="video" class="section parallax">
+        <div class="overlay"></div>
+       <div class="container">
+           <div class="row">
+           
+                 <div class="title-box text-center white">
+                    <h2 class="title">Achievements</h2>
+                 </div>
+             
+             <div class="col-md-6">
+                 <div class="video-caption-main">
+                      <!-- Video caption #1 -->
+                      <!-- <div class="video-caption"> -->
+                          <!-- <div class="video-icon"> -->
+                              <!-- <i class="fa fa-briefcase"></i> -->
+                          <!-- </div> -->
+                          <!-- <div class="video-caption-info"> -->
+                              <!-- <h4>Take a look at  this video to see how we work.</h4> -->
+                              <!-- <p>Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua.</p> -->
+                          <!-- </div> -->
+                      <!-- </div> -->
+                      
+                       <!-- Video caption #2 -->
+                      <!-- <div class="video-caption"> -->
+                          <!-- <div class="video-icon"> -->
+                              <!-- <i class="fa fa-glass"></i> -->
+                          <!-- </div> -->
+                          <!-- <div class="video-caption-info"> -->
+                              <!-- <h4>The programming language of ios apps</h4> -->
+                              <!-- <p>Lorem ipsum dolor consectetur adipisicing incididunt eiusmod tempor incididunt laboredolore magna aliqua.</p> -->
+                          <!-- </div> -->
+                      <!-- </div> -->
+
+                      <!--Video caption #3-->
+                      <div class="video-caption">
+                          <div class="video-icon">
+                          <i class="icon-trophy "></i>
+                          </div>
+                          <div class="video-caption-info">
+                              <h4>ICAC 2022</h4>
+                              <p>4th International Conference on Advancements in Computing 2022. Research Paper Accepted</p>
+                          </div>
+                      </div>
+                      
+                 </div>
+             </div>
+            <!-- End Video caption-->
+             
+            <div class="col-md-6">
+                <!--Video caption #3-->
+                <div class="video-caption">
+                    <div class="video-icon">
+                        <i class="icon-trophy"></i>
+                    </div>
+                          <div class="video-caption-info">
+                              <h4>ICITR 2022</h4>
+                              <p>7th  International Conference on Information Technology Research. Research Paper Accepted</p>
+                          </div>
+                      </div>
+            </div> 
+               
+           </div> <!-- /.row-->
+       </div> <!-- /.container-->
+  </section>
+  <!--End video-->
+
+ 
+   <!-- Start blog-->
+   <!--
+   <section id="blog" class="section">
+       <div class="container">
+           <div class="row">
+           
+                 <div class="title-box text-center">
+                    <h2 class="title">Latest Blog</h2>
+                 </div>
+                
+               <!-- Start Blog item #1-->
+			   <!--
+               <div class="col-md-4">
+                   <div class="blog-post">
+                         <div class="post-media">
+							 <img src="images/blog/blog1.jpg" alt="">
+                         </div>
+                       <div class="post-desc">
+                           <h4>consectetur adipisicing Inventore</h4>
+                           <h5>12 May, 2015 / 5 Comments</h5>
+                           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, dolorum, fugiat, eligendi magni quibusdam iure cupiditate ex voluptas unde</p>
+                            <a href="blog.html" class="btn btn-gray-border">Read More</a>
+                       </div>
+                   </div>
+               </div>
+               
+               <!-- Start Blog item #2-->
+			   <!--
+               <div class="col-md-4">
+                   <div class="blog-post">
+                         <div class="post-media">
+							 <img src="images/blog/blog2.jpg" alt="">
+                         </div>
+                       <div class="post-desc">
+                           <h4>consectetur adipisicing Inventore</h4>
+                            <h5>12 May, 2015 / 3 Comments</h5>
+                           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, dolorum, fugiat, eligendi magni quibusdam iure cupiditate ex voluptas unde</p>
+                            <a href="blog.html" class="btn btn-gray-border">Read More</a>
+                       </div>
+                   </div>
+               </div>
+               
+               <!-- Start Blog item #3-->
+			   <!--
+               <div class="col-md-4">
+                   <div class="blog-post">
+                         <div class="post-media">
+							 <img src="images/blog/blog3.jpg" alt="">
+                         </div>
+                       <div class="post-desc">
+                           <h4>consectetur adipisicing Inventore</h4>
+                             <h5>12 May, 2015 / 11 Comments</h5>
+                           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, dolorum, fugiat, eligendi magni quibusdam iure cupiditate ex voluptas unde</p>
+                        <a href="blog.html" class="btn btn-gray-border">Read More</a>
+                       </div>
+                   </div>
+               </div>
+
+           </div> <!--/.row-->
+		   <!--
+       </div> <!--/.container-->
+	   <!--
+   </section>
+   <!-- End blog-->
+   
+
+  <!--Start Testimonial-->  
+  <!--
+  <section id="testimonials" class="section parallax">
+     <div class="overlay"></div>
+        <div class="container">
+              <div class="row">
+              
+                  	<div class="title-box text-center white">
+                        <h2 class="title">What clients say.</h2>
+                     </div>
+
+              
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="testimonials-carousel">
+                            <!--Start Testimonial item #1-->
+							<!--
+                            <div class="items">
+                                <div class="desc">habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet habitant morbi tristique senectus et netus et malesuada fames ac quam egestas.</div>
+                                <img src="images/testimonial/testimonial-img1.jpg" class="testimonial-pic" alt="testimonials" />
+                                <div class="name">Andrew Doe</div>
+                            </div>
+                            
+                              <!--Start Testimonial item #2-->
+							  <!--
+                            <div class="items">
+                                <div class="desc">habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet habitant morbi tristique senectus et netus et malesuada fames ac quam egestas.</div>
+                                <img src="images/testimonial/testimonial-img2.jpg" class="testimonial-pic" alt="testimonials" />
+                                <div class="name">Andrew Doe</div>
+                            </div>
+                            
+							
+                              <!--Start Testimonial item #3-->
+							  <!--
+                            <div class="items">
+                                <div class="desc">habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet habitant morbi tristique senectus et netus et malesuada fames ac quam egestas.</div>
+                                <img src="images/testimonial/testimonial-img1.jpg" class="testimonial-pic" alt="testimonials" />
+                                <div class="name">Andrew Doe</div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!--/.row-->
+				<!--
+            </div> <!--/.container-->
+			<!--
+          </section>
+        <!--Start Testimonial-->
+	
+ 
+    <!--Start clients-->
+    <section id="clients" class="section">
+           <div class="container">
+               <div class="row">
+               
+            <div class="title-box text-center">
+                <h2 class="title">Tools & Technology</h2>
+             </div>
+                
+                   <div class="clients-carousel">
+				   
+						
+					 <!-- Clients Logo Item-->
+                        <div class="item">
+                            <a href="https://www.python.org/">
+                                <figure>
+                                     <img src="images/clients-logo/python.png" alt="https://www.python.org/" />
+                                </figure>
+                            </a>
+                        </div>   
+						
+                        <!-- Clients Logo Item-->
+                        <div class="item">
+                            <a href="https://cloud.google.com/dialogflow/docs">
+                                <figure>
+                                     <img src="images/clients-logo/dialogflow.png" alt="https://cloud.google.com/dialogflow/docs" />
+                                </figure>
+                            </a>
+                        </div>  						
+                       <!-- Clients Logo Item-->
+                        <div class="item">
+                            <a href="https://www.heroku.com/">
+                                <figure>
+                                    <img src="images/clients-logo/heroku.png" alt="https://www.heroku.com/" />
+                                </figure>
+                            </a>
+                        </div>
+                                                
+                        <!-- Clients Logo Item-->
+                        <div class="item">
+                            <a href="https://fastapi.tiangolo.com/">
+                                <figure>
+                                      <img src="images/clients-logo/fastapi2.png" alt="https://fastapi.tiangolo.com/" />
+                                </figure>
+                            </a>
+                        </div>
+						
+				     <!-- Clients Logo Item-->
+                        <div class="item">
+                            <a href="https://docs.opencv.org/4.x/">
+                                <figure>
+                                     <img src="images/clients-logo/open cv.png" alt="https://docs.opencv.org/4.x/" />
+                                </figure>
+                            </a>
+                        </div>
+						
+					 <!-- Clients Logo Item-->
+                        <div class="item">
+                            <a href="https://flutter.dev/">
+                                <figure>
+                                      <img src="images/clients-logo/flutter.png" alt="https://flutter.dev/" />
+                                </figure>
+                            </a>
+                        </div>   
+						
+                       <!-- Clients Logo Item-->
+                        <div class="item">
+                            <a href="https://spacy.io/">
+                                <figure>
+                                      <img src="images/clients-logo/spacy1.jpg" alt="https://spacy.io/" />
+                                </figure>
+                            </a>
+                        </div>
+                        
+                       <!-- Clients Logo Item-->
+                        <div class="item">
+                            <a href="https://tesseract-ocr.github.io/">
+                                <figure>
+                                      <img src="images/clients-logo/ocr.png" alt="https://tesseract-ocr.github.io/" />
+                                </figure>
+                            </a>
+                        </div>                       
+                                      			
+						 <!-- Clients Logo Item-->
+                        <div class="item">
+                            <a href="https://www.nltk.org/">
+                                <figure>
+                                     <img src="images/clients-logo/nltk.jpg" alt="https://www.nltk.org/" />
+                                </figure>
+                            </a>
+                        </div>
+		         </div>
+               </div> <!--/.row-->
+         </div> <!--/.container-->
+    </section>
+   <!--End clients-->
+   
+  
+   <!--Start Contact-->
+   <section id="contact" class="section parallax">
+      <div class="overlay"></div>
+       <div class="container">
+           <div class="row">
+           
+                 <div class="title-box text-center white">
+                    <h2 class="title">Contact Us</h2>
+                 </div>
+             </div>
+
+               <!--Start contact form-->
+               <div class="col-md-8 col-md-offset-2 contact-form">
+               
+                    <div class="contact-info text-center">
+                       <p>071 155 6454</p>
+                       <p>3/1 Mahabudghamuwa, Angoda </p>
+                       <p>spavis@gmail.com </p>
+                    </div>
+                                          
+               </div>
+              <!--End contact form-->
+              
+       </div> <!-- /.container-->
+   </section>
+   <!--End Contact-->
+   
+   
+   <!--Start Footer-->
+   <footer>
+       <div class="container">
+           <div class="row">
+               <!--Start copyright-->
+               <div class="col-md-6 col-sm-6 col-xs-6">
+                   <div class="copyright"><p>Copyright © 2022 All Rights reserved by: <a href="http://templatestock.co"> SPAVIS -- 2022-108</a>
+                 </p></div>
+               </div>
+               <!--End copyright-->
+               
+               <!--start social icons-->
+               <div class="col-md-6 col-sm-6 col-xs-6">
+                   <div class="social-icons">
+                       <ul>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                       </ul>
+                    </div>
+               </div>
+               <!--End social icons-->
+           </div> <!-- /.row-->
+       </div> <!-- /.container-->
+   </footer>
+   <!--End Footer-->
+
+   <a href="#" class="scrollup"> <i class="fa fa-chevron-up"> </i> </a>
+
+    <!--Plugins-->
+	<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script> 
+    <script type="text/javascript" src="js/owl-carousel/owl.carousel.js"></script>
+    <script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+    <script type="text/javascript" src="js/easing.js"></script>
+    <script type="text/javascript" src="js/jquery.easypiechart.js"></script>
+    <script type="text/javascript" src="js/jquery.appear.js"></script>
+    <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
+    <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
+    
+ </body>
+</html>
+
